@@ -1,0 +1,4 @@
+- original code: https://github.com/BlankSourceCode/obs-zoom-to-mouse
+- good config: https://www.jestsee.com/blog/zoom-to-mouse-functionality-in-obs/
+- edited for obs version 32 on Mac M2
+- added a triger for woosh.wav file
